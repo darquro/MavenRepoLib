@@ -5,6 +5,7 @@ package cf.darquro.mylibrary;
  */
 
 public class Foo {
-    void bar() {
+    String bar() {
+        return "From my library!";
     }
 }
